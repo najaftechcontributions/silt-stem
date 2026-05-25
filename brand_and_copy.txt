@@ -1,0 +1,109 @@
+================================
+Silt & Stem - BRAND ASSETS AND COPY
+================================
+
+BRAND NAME: Silt & Stem
+TAGLINE: Indoor plants that bring your rooms to life.
+
+================================
+COLOR PALETTE
+================================
+
+Primary (Forest Green): #2E7D32  - Buttons, headings, accents
+Secondary (Warm Brown): #6D4C41  - Backgrounds, footer
+Accent (Mustard Yellow): #F9A825 - CTAs, highlights, badges
+Background (Cream): #FAF8F3      - Main page background
+Text Dark (Deep Forest): #1B5E20 - Headings
+Text Soft (Warm Charcoal): #3E2723 - Body text
+
+Style Notes:
+- Soft, earthy, warm (not corporate or sterile)
+- Rounded corners on cards and buttons
+- Generous whitespace
+- Subtle textures (paper or leaf shadow) okay
+- Mobile feels like a chat-friendly catalog
+
+Design Inspiration:
+- https://www.ugaoo.com
+- Pinterest: search "plant shop website earthy"
+
+================================
+COPY TEXT - HERO SECTION
+================================
+
+Brand Name: Silt & Stem
+
+Tagline: Indoor plants that bring your rooms to life.
+
+Sub-tagline: Every plant comes with a free jungle hero
+miniature, because your green corner deserves a guardian.
+
+CTA Button: Shop Plants
+
+================================
+COPY TEXT - PLANT CATALOG SECTION
+================================
+
+Section Heading: Meet Our Plants
+
+Section Subheading: Handpicked greens for your home,
+each ready to ship with a free collectible.
+
+================================
+COPY TEXT - CART PANEL
+================================
+
+Panel Heading: Your Plants
+
+Empty State: Your cart is empty. Add a plant to get started.
+
+Checkout Button: Send Order on WhatsApp
+
+================================
+COPY TEXT - WHY US SECTION
+================================
+
+Section Heading: Why Silt & Stem
+
+Card 1
+Heading: Free Collectible
+Text: Every order ships with a hand-crafted jungle hero
+miniature. Collect them all over time.
+
+Card 2
+Heading: Pot-Friendly Design
+Text: Our figurines sit happily inside your plant pot or
+on a shelf nearby, adding personality to your green corner.
+
+Card 3
+Heading: Care Guide Included
+Text: Every plant ships with a simple care card so your
+new green friend thrives from day one.
+
+================================
+COPY TEXT - ABOUT SECTION
+================================
+
+Section Heading: Our Story
+
+Body:
+Silt & Stem started as a small idea: to make plants feel less
+like products and more like companions. Every plant we
+ship comes with a free hand-sculpted jungle hero
+figurine, because every green corner deserves its own
+little guardian. Whether you are new to plants or already
+parent to ten, we hope our plants and tiny friends bring
+a bit of jungle into your home.
+
+================================
+COPY TEXT - FOOTER
+================================
+
+Brand Name: Silt & Stem
+Tagline: Indoor plants that bring your rooms to life.
+
+WhatsApp: +91 8292514680
+Email: aryankkb420@gmail.com
+Instagram: @Silt&Stem
+
+Copyright: (c) 2026 Silt & Stem. All rights reserved.

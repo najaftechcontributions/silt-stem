@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siltandstem.com/sitemap.xml

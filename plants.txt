@@ -1,0 +1,73 @@
+================================
+BOOTA - PLANT CATALOG DATA
+================================
+
+PLANT 1
+Name: Snake Plant
+Description: Hardy, air-purifying, perfect for beginners
+Price: 349
+Image: snake-plant.webp
+In Stock: true
+
+PLANT 2
+Name: Money Plant
+Description: Lucky trailing vines that grow with little care
+Price: 249
+Image: money-plant.webp
+In Stock: true
+
+PLANT 3
+Name: ZZ Plant
+Description: Glossy leaves, almost impossible to kill
+Price: 499
+Image: zz-plant.webp
+In Stock: true
+
+PLANT 4
+Name: Peace Lily
+Description: Elegant white blooms and clean indoor air
+Price: 449
+Image: peace-lily.webp
+In Stock: true
+
+PLANT 5
+Name: Spider Plant
+Description: Easy grower with playful trailing leaves
+Price: 299
+Image: spider-plant.webp
+In Stock: true
+
+PLANT 6
+Name: Areca Palm
+Description: Tropical vibes and a natural air freshener
+Price: 599
+Image: areca-palm.webp
+In Stock: true
+
+PLANT 7
+Name: Aloe Vera
+Description: Healing leaves, low maintenance, loves sun
+Price: 199
+Image: aloe-vera.webp
+In Stock: true
+
+PLANT 8
+Name: Rubber Plant
+Description: Bold glossy leaves, a statement piece
+Price: 549
+Image: rubber-plant.webp
+In Stock: false
+
+PLANT 9
+Name: Boston Fern
+Description: Lush feathery fronds, loves humid spots
+Price: 399
+Image: boston-fern.webp
+In Stock: true
+
+PLANT 10
+Name: Jade Plant
+Description: Plump leaves, said to bring prosperity
+Price: 349
+Image: jade-plant.webp
+In Stock: true

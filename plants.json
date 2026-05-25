@@ -1,0 +1,94 @@
+{
+  "plants": [
+    {
+      "id": "snake-plant",
+      "name": "Snake Plant",
+      "description": "Hardy, air-purifying, perfect for beginners",
+      "shortdesc": "Hardy, air-purifying, perfect for beginners",
+      "price": 349,
+      "image": "Images/Snake Plant.webp",
+      "in_stock": true
+    },
+    {
+      "id": "money-plant",
+      "name": "Money Plant",
+      "description": "Lucky trailing vines that grow with little care",
+      "shortdesc": "Lucky trailing vines that grow with little care",
+      "price": 249,
+      "image": "Images/Money Plant.webp",
+      "in_stock": true
+    },
+    {
+      "id": "zz-plant",
+      "name": "ZZ Plant",
+      "description": "Glossy leaves, almost impossible to kill",
+      "shortdesc": "Glossy leaves, almost impossible to kill",
+      "price": 499,
+      "image": "Images/ZZ Plant.webp",
+      "in_stock": true
+    },
+    {
+      "id": "peace-lily",
+      "name": "Peace Lily",
+      "description": "Elegant white blooms and clean indoor air",
+      "shortdesc": "Elegant white blooms and clean indoor air",
+      "price": 449,
+      "image": "Images/Peace Lily.webp",
+      "in_stock": true
+    },
+    {
+      "id": "spider-plant",
+      "name": "Spider Plant",
+      "description": "Easy grower with playful trailing leaves",
+      "shortdesc": "Easy grower with playful trailing leaves",
+      "price": 299,
+      "image": "Images/Spider Plant.webp",
+      "in_stock": true
+    },
+    {
+      "id": "areca-palm",
+      "name": "Areca Palm",
+      "description": "Tropical vibes and a natural air freshener",
+      "shortdesc": "Tropical vibes and a natural air freshener",
+      "price": 599,
+      "image": "Images/Areca Palm.webp",
+      "in_stock": true
+    },
+    {
+      "id": "aloe-vera",
+      "name": "Aloe Vera",
+      "description": "Healing leaves, low maintenance, loves sun",
+      "shortdesc": "Healing leaves, low maintenance, loves sun",
+      "price": 199,
+      "image": "Images/Aloe Vera.webp",
+      "in_stock": true
+    },
+    {
+      "id": "rubber-plant",
+      "name": "Rubber Plant",
+      "description": "Bold glossy leaves, a statement piece",
+      "shortdesc": "Bold glossy leaves, a statement piece",
+      "price": 549,
+      "image": "Images/Rubber Plant.webp",
+      "in_stock": false
+    },
+    {
+      "id": "boston-fern",
+      "name": "Boston Fern",
+      "description": "Lush feathery fronds, loves humid spots",
+      "shortdesc": "Lush feathery fronds, loves humid spots",
+      "price": 399,
+      "image": "Images/Boston Fern.webp",
+      "in_stock": true
+    },
+    {
+      "id": "jade-plant",
+      "name": "Jade Plant",
+      "description": "Plump leaves, said to bring prosperity",
+      "shortdesc": "Plump leaves, said to bring prosperity",
+      "price": 349,
+      "image": "Images/Jade Plant.webp",
+      "in_stock": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./plants.json:/usr/share/nginx/html/plants.json:ro
+      - ./Images:/usr/share/nginx/html/Images:ro
+    restart: unless-stopped
