@@ -353,7 +353,7 @@ button {
 .hero-mascot {
   width: 100%;
   max-width: 45%;
-  min-height: 500px;
+  min-height: 420px;
   height: 100%;
   position: relative;
   display: flex;
@@ -1317,7 +1317,7 @@ p.short-desc {
   }
 
   .hero-mascot {
-    min-height: 400px;
+    min-height: 320px;
   }
 
   .header-inner {
