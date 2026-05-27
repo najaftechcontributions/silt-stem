@@ -377,11 +377,23 @@ button {
   z-index: 1;
   width: clamp(360px, 30vw, 380px);
   height: auto;
-  animation: floatUp 3.6s ease-in-out infinite;
+
+  /* smoother floating */
+  animation: floatUp 5s ease-in-out infinite;
+
   filter: drop-shadow(0 16px 32px rgba(46, 125, 50, 0.25));
+
+  transition:
+    transform 0.6s cubic-bezier(0.22, 1, 0.36, 1) !important;
+
+  &:hover {
+    transform: scale(1.1) !important;
+    filter: drop-shadow(0 24px 40px rgba(46, 125, 50, 0.35)) !important;
+    animation-play-state: paused;
+  }
 }
 
-.hover_animation {
+/* .hover_animation {
   object-fit: contain;
   object-position: center;
   width: 100%;
@@ -391,9 +403,9 @@ button {
   left: 50%;
   transform: translate(-50%, -50%) !important;
   transition: all 0.2s ease-in-out;
-}
+} */
 
-.hover_animation.backside {
+/* .hover_animation.backside {
   opacity: 1;
   z-index: 3;
 }
@@ -413,7 +425,7 @@ button {
     opacity: 0;
     z-index: 1;
   }
-}
+} */
 
 .mascot-hidden {
   display: none;
@@ -437,6 +449,7 @@ button {
   padding: 80px 0;
   background: linear-gradient(180deg, var(--cream-bg) 0%, #f0ede6 100%);
 }
+
 .wateringplants {
   position: absolute;
   bottom: 0;
@@ -445,6 +458,7 @@ button {
   opacity: 0.6;
   width: auto;
 }
+
 .plant-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -1287,7 +1301,8 @@ p.short-desc {
     padding: 50px 0;
   }
 
-  .wateringplants, .small-plants {
+  .wateringplants,
+  .small-plants {
     height: 50px;
   }
 
